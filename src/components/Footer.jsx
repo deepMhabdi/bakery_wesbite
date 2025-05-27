@@ -4,7 +4,7 @@ import avatarIcon from "../assets/avatar.png";
 
 const Footer = () => {
   return (
-    <section className="bg-[#A4DADC] rounded-3xl mt-10 px-6 md:px-10 py-10 mx-4 md:mx-15 relative font-primary mb-10">
+    <section className="bg-[#A4DADC] rounded-3xl mt-10 px-6 md:px-10 py-10 mx-4 md:mx-15 relative font-primary mb-8">
       <img
         src={cookieImage}
         alt="Cookie"
